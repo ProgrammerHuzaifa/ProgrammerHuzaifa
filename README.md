@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ProgrammerHuzaifa
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning C++
-- 💞️ 
 - 📫 You can reach me via email huzaifasajid965@gmail.com
 
 <!---
